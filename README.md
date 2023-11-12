@@ -4,12 +4,12 @@ Welcome to the Clothing Store Shopping Cart! This web application allows you to 
 
 ## Table of Contents
 
-- [Introduction](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#introduction)
-- [Features](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#features)
-- [Installation](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#installation)
-- [Usage](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#usage)
-- [Contributing](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#contributing)
-- [License](https://chat.openai.com/c/260c8f54-a7b2-4b60-a71d-d695e155a31a#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Introduction
