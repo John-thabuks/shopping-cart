@@ -34,8 +34,8 @@ To run this application locally, follow these steps:
 
 ## Usage
 
-- Visit the [Clothing Store](https://chat.openai.com/c/index.html) to explore and add items to your cart.
-- Navigate to [Shopping Cart](https://chat.openai.com/c/cart.html) to view and manage your cart items.
+- Visit the [Clothing Store](https://john-thabuks.github.io/shopping-cart/index.html) to explore and add items to your cart.
+- Navigate to [Shopping Cart](https://john-thabuks.github.io/shopping-cart/cart.html) to view and manage your cart items.
 - Adjust the quantity of items with the increment and decrement buttons.
 - Click on the "Checkout" button to proceed to payment.
 
