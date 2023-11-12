@@ -52,4 +52,4 @@ If you would like to contribute to the development of this application, please f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/John-thabuks) file for details.
